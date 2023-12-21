@@ -18,7 +18,7 @@ class TestHomePage(BaseClass):
         driver = self.driver
         hp = HomePage(driver)
         hp.formFill(getData["fname"],getData["email"])
-        log.info("Entered First name and email")
+        log.info("Entered First name and email to login into the application")
         self.selectByVisibleText(hp.getGender(),getData["gend"])
         log.info("Selected gender attribute")
         sr = hp.submit_form()
