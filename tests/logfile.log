@@ -1,0 +1,26 @@
+2023-12-20 13:06:29,831 :INFO :test_e2e :Navigated to products page
+2023-12-20 13:06:29,866 :INFO :test_e2e :Getting all products title
+2023-12-20 13:06:30,020 :INFO :test_e2e :Added desired product in the cart
+2023-12-20 13:06:30,157 :INFO :test_e2e :Navigated to checkout page
+2023-12-20 13:06:30,253 :INFO :test_e2e :Navigated to purchase order page
+2023-12-20 13:06:30,396 :INFO :test_e2e :Entered country name
+2023-12-20 13:06:35,792 :INFO :test_e2e :Alert message is correct
+2023-12-20 13:11:44,104 :INFO :test_formSubmission :Entered First name and email
+2023-12-20 13:11:44,186 :INFO :test_formSubmission :Selected gender attribute
+2023-12-20 13:11:44,358 :INFO :test_formSubmission :Submitted form
+2023-12-20 13:11:44,358 :INFO :test_formSubmission :form is submitted successfully with correct message
+2023-12-20 13:11:44,905 :INFO :test_formSubmission :Entered First name and email
+2023-12-20 13:11:44,905 :INFO :test_formSubmission :Entered First name and email
+2023-12-20 13:11:45,021 :INFO :test_formSubmission :Selected gender attribute
+2023-12-20 13:11:45,021 :INFO :test_formSubmission :Selected gender attribute
+2023-12-20 13:11:45,121 :INFO :test_formSubmission :Submitted form
+2023-12-20 13:11:45,121 :INFO :test_formSubmission :Submitted form
+2023-12-20 13:11:45,122 :INFO :test_formSubmission :form is submitted successfully with correct message
+2023-12-20 13:11:45,122 :INFO :test_formSubmission :form is submitted successfully with correct message
+2023-12-20 13:11:52,852 :INFO :test_e2e :Navigated to products page
+2023-12-20 13:11:52,876 :INFO :test_e2e :Getting all products title
+2023-12-20 13:11:53,029 :INFO :test_e2e :Added desired product in the cart
+2023-12-20 13:11:53,167 :INFO :test_e2e :Navigated to checkout page
+2023-12-20 13:11:53,261 :INFO :test_e2e :Navigated to purchase order page
+2023-12-20 13:11:53,399 :INFO :test_e2e :Entered country name
+2023-12-20 13:11:58,748 :INFO :test_e2e :Alert message is correct
